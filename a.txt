@@ -10,4 +10,4 @@ this is to check stage hunk
 
 
 
-test 1
+test 1 modified this, this should be hunk 2
