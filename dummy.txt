@@ -3,3 +3,4 @@ another line created as second commit
 creating a new file dummy.txt
 
 added this line from master now we'll have some fun. 
+added while checking status
