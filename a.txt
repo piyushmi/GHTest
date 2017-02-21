@@ -1,1 +1,4 @@
 this is a file created on fly
+just checking a few things with commit. 
+
+this is to check stage hunk
