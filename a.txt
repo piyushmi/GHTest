@@ -1,5 +1,6 @@
 this is a file created on fly
 added this for stage hunk this should be hunk 1
+another test for stage hunk using gui tool
 test
 just checking a few things with commit. 
 
